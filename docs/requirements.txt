@@ -1,3 +1,4 @@
 parse_cmake
 sphinx==1.8.5
 docutils==0.17.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
